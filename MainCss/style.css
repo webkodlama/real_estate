@@ -238,7 +238,7 @@ margin-bottom: 25px;
 .blog-container div{
     width: 100%;
 }
-.blog-container .blog-text{
+.blog-text{
     display: flex;
     flex-direction: column;
     gap: 30px;
@@ -246,15 +246,16 @@ margin-bottom: 25px;
     padding: 20px;
     justify-content: center;
 }
-.blog-container .blog-text button{
+.blog-text button{
 width: 25%;
 font-size: 2rem;
+
 }
-.blog-container .blog-text h1{
+.blog-text h1{
     font-size:4rem;
     font-weight: 700;
 }
-.blog-container .blog-text p{
+.blog-text p{
     font-size: 2rem;
 }
 .reverse {
@@ -273,13 +274,16 @@ justify-content: space-around;
 text-align: center;
 margin-inline: auto;
 padding: 20px 0;
-border-radius: 30px;
+
+
+
 }
 .service-text p:first-of-type{
     font-size: 3rem;
     font-weight: bold;
     color: #D72323;
     margin-bottom: 10px;
+   
 }
 .service-text p:last-of-type{
     font-size: 2rem;
@@ -288,6 +292,7 @@ border-radius: 30px;
 #services .title-bottom{
     width: 17%;
 }
+
 
 /* SİGN UP */
 
